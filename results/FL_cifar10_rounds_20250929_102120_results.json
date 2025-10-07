@@ -1,0 +1,22 @@
+{
+  "accuracy_final": 0.2043,
+  "accuracy_final_std": 0.0,
+  "accuracy_avg": 0.15986666666666668,
+  "accuracy_avg_std": 0.0,
+  "loss_final": 2.138470940529161,
+  "loss_final_std": 0.0,
+  "loss_avg": 2.2261011901681336,
+  "loss_avg_std": 0.0,
+  "participation_rate_final": 0.1,
+  "participation_rate_final_std": 0.0,
+  "participation_rate_avg": 0.10000000000000002,
+  "participation_rate_avg_std": 0.0,
+  "system_activity_final": 0.5270833171318037,
+  "system_activity_final_std": 0.0,
+  "system_activity_avg": 0.5500215902181992,
+  "system_activity_avg_std": 0.0,
+  "convergence_round": 2.0,
+  "convergence_round_std": 0.0,
+  "experiment_name": "FL_cifar10_rounds_20250929_102120",
+  "num_runs": 1
+}
